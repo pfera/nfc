@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="chromium" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ac745e5-8c4b-4053-b695-3793009de72b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nfc_app" />
+  </component>
+  <component name="ProjectId" id="1kpyGDptINTWOCmjEPsqp5XgxQ8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ac745e5-8c4b-4053-b695-3793009de72b" name="Default Changelist" comment="" />
+      <created>1606411729373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606411729373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1860" height="221" key="GridCell.Tab.0.bottom" timestamp="1606424238552">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1606424238552" />
+    <state width="1860" height="221" key="GridCell.Tab.0.center" timestamp="1606424238551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="221" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1606424238551" />
+    <state width="1860" height="221" key="GridCell.Tab.0.left" timestamp="1606424238551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="221" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1606424238551" />
+    <state width="1860" height="221" key="GridCell.Tab.0.right" timestamp="1606424238551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="221" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1606424238551" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1606424190392">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1606424190392" />
+    <state x="667" y="139" width="585" height="801" key="find.popup" timestamp="1606424354384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="139" width="585" height="801" key="find.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1606424354384" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1606416910029">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1606416910029" />
+  </component>
+</project>
